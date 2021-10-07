@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pepe Fagoaga, a security enginner from 🇪🇸 Spain.
+I'm Pepe Fagoaga, a security engineer from 🇪🇸 Spain.
 
 🔒  Currently working at [Smart Protection](https://smartprotection.com)
 <!--
