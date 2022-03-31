@@ -2,7 +2,7 @@
 
 I'm Pepe Fagoaga, a security engineer from 🇪🇸 Spain.
 
-🔒  Currently working at [Smart Protection](https://smartprotection.com). Former cybersecurity auditor at [Telefonica](https://www.telefonica.com/es/).
+🔒  Currently working ?. Former cybersecurity engineer at [Smart Protection](https://smartprotection.com) and [Telefonica](https://www.telefonica.com/es/).
 <!--
 **jfagoagas/jfagoagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
