@@ -2,6 +2,8 @@
 
 I'm Pepe Fagoaga, a Senior Developer and Cloud Security Engineer from 🇪🇸 Spain.
 
+You can read things about security and systems at https://jfagoagas.github.io
+
 🔒  Currently working at [Prowler](https://prowler.com). Former engineer at [Verica](https://www.verica.io/), [Smart Protection](https://smartprotection.com) and [Telefonica](https://www.telefonica.com/es/).  
 
 🔭 [Prowler OSS](https://github.com/prowler-cloud/prowler) maintainer.
